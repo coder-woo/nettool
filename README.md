@@ -12,7 +12,9 @@
 * 支持UDP广播
 
 ## 二. 下载链接
-[App Store地址](https://apps.apple.com/cn/app/id1461652639): <https://apps.apple.com/cn/app/id1461652639>
+[App Store地址: ](https://apps.apple.com/cn/app/id1461652639) <https://apps.apple.com/cn/app/id1461652639>
+
+[Mac OSX地址: ](https://apps.apple.com/cn/app/tcp-udp-ping-%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7/id1461652639)<https://apps.apple.com/cn/app/tcp-udp-ping-%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7/id1461652639>
 
 ## 三. 部分效果图
 ![](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/e6/76/cde6768b-2121-556b-01c2-3cb9cf8c2290/pr_source.png/1242x2688bb.png)

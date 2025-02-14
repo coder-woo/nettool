@@ -3,14 +3,14 @@
 
 The network debugging tool is a TCP&UDP communication debugging tool with rich functions, clear interface, and easy to use. It can assist network operation and maintenance personnel and program developers in debugging the network. The main functions include:
 
-* 1. Integrated TCP client and server; UDP client and server
-* 2. Support Ping command
-* 3. Support Ping monitoring (automatically ping the specified server at regular intervals)
-* 4. Support UDP broadcast
-* 5. Simultaneous management of multiple client links
-* 6. Automatically send messages at regular intervals
-* 7. Support switching between hexadecimal, UTF-8, and ASCII character encodings
-* 8. Automatically cache the last sent message
+* Integrated TCP client and server; UDP client and server
+* Support Ping command
+* Support Ping monitoring (automatically ping the specified server at regular intervals)
+* Support UDP broadcast
+* Simultaneous management of multiple client links
+* Automatically send messages at regular intervals
+* Support switching between hexadecimal, UTF-8, and ASCII character encodings
+* Automatically cache the last sent message
 
 ## 2. Download
 
